@@ -1,0 +1,46 @@
+[
+    {
+        "_id": {
+            "$oid": "6ae9ec859b9a3d5be1d087f0"
+        },
+        "nombre": "S&G_monterrey",
+        "direccion": "cr 45a # 66-50",
+        "departamento": "antioquia",
+        "municipio": "medellin",
+        "telefono": "3005583939",
+        "disponible": true
+    },
+    {
+        "_id": {
+            "$oid": "6ae9eca59b9a3d5be1d087f2"
+        },
+        "nombre": "S&G_colombia",
+        "direccion": "cr 50 # 66-50",
+        "departamento": "antioquia",
+        "municipio": "medellin",
+        "telefono": "3005583940",
+        "disponible": true
+    },
+    {
+        "_id": {
+            "$oid": "6ae9ecc19b9a3d5be1d087f4"
+        },
+        "nombre": "S&G_envigado",
+        "direccion": "cr 50 # 66-50",
+        "departamento": "antioquia",
+        "municipio": "envigado",
+        "telefono": "3005583960",
+        "disponible": true
+    },
+    {
+        "_id": {
+            "$oid": "6ae9f0f25b888a7556b09c2b"
+        },
+        "nombre": "S&G_itagui",
+        "direccion": "cr 55 # 66-50",
+        "departamento": "antioquia",
+        "municipio": "itagui",
+        "telefono": "3005583980",
+        "disponible": true
+    }
+]

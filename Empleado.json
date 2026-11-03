@@ -1,0 +1,38 @@
+[
+    {
+        "_id": {
+            "$oid": "6ae36d03ef8d1709c0c22771"
+        },
+        "nombre": "santiago garcia",
+        "documento": "12347",
+        "telefono": "3005583958",
+        "correo": "churrisgarcia@hotmail.com"
+    },
+    {
+        "_id": {
+            "$oid": "6ae36d0def8d1709c0c22773"
+        },
+        "nombre": "Daniel grisales",
+        "documento": "12348",
+        "telefono": "3005583959",
+        "correo": "danielgr@hotmail.com"
+    },
+    {
+        "_id": {
+            "$oid": "6ae36d1bef8d1709c0c22775"
+        },
+        "nombre": "Andres vargas",
+        "documento": "12349",
+        "telefono": "3006872362",
+        "correo": "andresvr@hotmail.com"
+    },
+    {
+        "_id": {
+            "$oid": "6ae9ede3f5b611c448c5f98e"
+        },
+        "nombre": "jamesd mosquera",
+        "documento": "123455",
+        "telefono": "3005583970",
+        "correo": "jamesmosquera@hotmail.com"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "_id": {
+            "$oid": "6ae369a2ef8d1709c0c22768"
+        },
+        "nombre": "Portatil Lenovo",
+        "precio": 2500000,
+        "stock": 15,
+        "categoria": "Tecnologia",
+        "disponible": true
+    },
+    {
+        "_id": {
+            "$oid": "6ae369eeef8d1709c0c2276a"
+        },
+        "nombre": "Mouse Logitech",
+        "precio": 85000,
+        "stock": 30,
+        "categoria": "Accesorios",
+        "disponible": true
+    },
+    {
+        "_id": {
+            "$oid": "6ae36a00ef8d1709c0c2276c"
+        },
+        "nombre": "Teclado mecanico",
+        "precio": 180000,
+        "stock": 12,
+        "categoria": "Accesorios",
+        "disponible": false
+    },
+    {
+        "_id": {
+            "$oid": "6ae370f4f9aa7bf2b18c83e4"
+        },
+        "nombre": "Pantalla Lenovo",
+        "precio": 450000.0,
+        "stock": 15
+    },
+    {
+        "_id": {
+            "$oid": "6ae373594e91436be7a58b9d"
+        },
+        "nombre": "Proyector Lenovo",
+        "precio": 150000.0,
+        "stock": 12,
+        "categoria": "Tecnologia",
+        "disponible": true
+    }
+]

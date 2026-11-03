@@ -1,0 +1,38 @@
+[
+    {
+        "_id": {
+            "$oid": "6ae35aadef8d1709c0c22750"
+        },
+        "nombre": "pablo arcila",
+        "documento": "1234",
+        "telefono": "3005583950",
+        "correo": "pabloar@hotmail.com"
+    },
+    {
+        "_id": {
+            "$oid": "6ae9e8719b9a3d5be1d087e5"
+        },
+        "nombre": "santiago uribe",
+        "documento": "12345",
+        "telefono": "300558351",
+        "correo": "santiagour@hotmail.com"
+    },
+    {
+        "_id": {
+            "$oid": "6ae9e8eb9b9a3d5be1d087ea"
+        },
+        "nombre": "esteban sanchez",
+        "documento": "12346",
+        "telefono": "3005583952",
+        "correo": "estebansc@hotmail.com"
+    },
+    {
+        "_id": {
+            "$oid": "6ae9ed1b200cbaf484ecb215"
+        },
+        "nombre": "mohame aly",
+        "documento": "12347",
+        "telefono": "3005583955",
+        "correo": "mohamealy@hotmail.com"
+    }
+]
